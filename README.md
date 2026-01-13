@@ -12,7 +12,7 @@ Um jogo clássico da cobrinha desenvolvido em Python usando a biblioteca Pygame.
 ### ⚙️ Instalação
 Clone o repositório e crie as dependências do projeto: 
 ```bash
-git clone https://github.com/seuusuario/snake-game.git
+git clone https://github.com/Rhaggi/snake_game.git
 ```
 ```bash
 cd snake-game
